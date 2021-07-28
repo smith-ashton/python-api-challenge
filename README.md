@@ -7,7 +7,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Humidity (%) vs. Latitude
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Cloudiness (%) vs. Latitude
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Wind Speed (mph) vs. Latitude
--Then create a linear regreesion to show the correlation between:
+<br/>-Then create a linear regreesion to show the correlation between:
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Northern Hemisphere - Temperature (F) vs. Latitude
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Southern Hemisphere - Temperature (F) vs. Latitude
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Northern Hemisphere - Humidity (%) vs. Latitude
