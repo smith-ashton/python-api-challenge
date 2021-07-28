@@ -1,0 +1,6 @@
+*/api_keys.py
+.DS_Store
+*/__pychache__
+*/.ipynb_checkpoints
+*/VacationPyTest.ipynb
+*/WeatherPyTest.ipynb
